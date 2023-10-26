@@ -1,2 +1,2 @@
 # myPortfolio
-## Live Link - https://mahfuzmia.netlify.app/
+## Live Link - https://mahfuz1703.github.io/myPortfolio/
