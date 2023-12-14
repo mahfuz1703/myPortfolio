@@ -466,33 +466,33 @@ a:focus {
     background: #222222;
 }
 
-.about .skills {
+.experience .skills {
     padding-top: 15px;
 }
 
-.about .skill-name {
+.experience .skill-name {
     margin-top: 15px;
 }
 
-.about .skill-name p {
+.experience .skill-name p {
     display: inline-block;
     margin-bottom: 5px;
     font-size: 16px;
     font-weight: 400;
 }
 
-.about .skill-name p:last-child {
+.experience .skill-name p:last-child {
     float: right;
 }
 
-.about .progress {
+.experience .progress {
     height: 5px;
     border: 1px solid #FF6F61;
     border-radius: 0;
     background: #ffffff;
 }
 
-.about .progress .progress-bar {
+.experience .progress .progress-bar {
     width: 1px;
     background: #FF6F61;
     border-radius: 0;
