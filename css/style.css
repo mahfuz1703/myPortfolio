@@ -334,6 +334,11 @@ a:focus {
     background-size: 440px;
     background-position: right;
 }
+@media(max-width: 767.98px) {
+    .header .content-inner {
+        background: none;
+    }
+}
 
 .header p {
     color: #FF6F61;
